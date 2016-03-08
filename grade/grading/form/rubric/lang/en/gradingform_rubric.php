@@ -69,6 +69,7 @@ $string['rubricmappingexplained'] = 'The minimum possible score for this rubric 
     If a scale is used instead of a grade, the score will be converted to the scale elements as if they were consecutive integers.';
 $string['rubricnotcompleted'] = 'Please choose something for each criterion';
 $string['rubricoptions'] = 'Rubric options';
+$string['rubricremark'] = 'Remarks';
 $string['rubricstatus'] = 'Current rubric status';
 $string['save'] = 'Save';
 $string['saverubric'] = 'Save rubric and make it ready';
